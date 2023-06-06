@@ -18,7 +18,9 @@
     }
 } 
 
-
+@media screen and (max-width: 600px) {
+    /* Estilos para telas menores que 600px de largura */
+  }
 
 
 body {
